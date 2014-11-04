@@ -5,7 +5,7 @@
 * takilmaca
 * ogrenmece
 
-'''C
+```c
 	printf("hello world\n");
-'''
+```
 
